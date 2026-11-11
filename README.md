@@ -178,8 +178,9 @@ Potential future enhancements include expanded automated test coverage, continuo
 
 ## Project Links
 
-- **GitHub Repository:** [New Version](https://github.com/Khethokuhle-Hadebe/new-version)
-- **Live Demo:** Coming soon
+GitHub Repository: [New Version](https://github.com/Khethokuhle-Hadebe/new-version)
+
+Live Demo: [New Version – Live Application](https://new-version-tau.vercel.app/)
 
 ## Author
 
